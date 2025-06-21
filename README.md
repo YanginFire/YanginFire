@@ -14,11 +14,6 @@
 ## Some statistics in my GitHub:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanginFire&layout=compact&theme=dark)
 
-## My recent projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YanginFire&repo=Course_work_equals)](https://github.com/YanginFire/Course_work_equals) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YanginFire&repo=Selenium_testing_practice)](https://github.com/YanginFire/Selenium_testing_practice)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YanginFire&repo=Quality-management-of-software-systems)](https://github.com/YanginFire/Quality-management-of-software-systems) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YanginFire&repo=API_testing_PetFriends)](https://github.com/YanginFire/API_testing_PetFriends)
-
 <!--
 **YanginFire/YanginFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

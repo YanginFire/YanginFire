@@ -1,4 +1,4 @@
-## Hi there. My name is Kudinova Irina👋
+## Hi there.👋
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YanginFire&show_icons=true&theme=calm)
 
 😄 Pronouns: She/Her
